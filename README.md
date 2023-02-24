@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @macklark
-- 👀 I’m interested in web and native tech
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in web tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ganesh.kolavennu@gmail.com
 
